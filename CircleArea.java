@@ -5,6 +5,6 @@ public class CircleArea {
         int radius = Math.abs(input);
         
         double area = Math.PI * Math.pow(radius, 2);
-        System.out.println("Radius: "+radius +" , Area: " + area);
+        System.out.println("Radius: " + radius + " , Area: " + area);
     }
 }
